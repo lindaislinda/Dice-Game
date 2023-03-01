@@ -24,5 +24,5 @@ function randomDice() {
     }
 
 }
-window.addEventListener("load", randomDice);
+
 button.addEventListener("click", randomDice);
